@@ -36,7 +36,7 @@ draw = function(){
   }
   
      if(mousePressed) {
-     text(" Live life More Life", 40, 100);
+     text(" Live life More Life", random( 0,60),random(0,80) );
      
      }
   
